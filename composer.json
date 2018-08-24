@@ -1,0 +1,15 @@
+{
+  "name": "civicrm/civicrm-libraries",
+  "description": "Bundle with all the civicrm libraries pre-build.",
+  "type": "drupal-library",
+  "license": "AGPL-3.0",
+  "authors": [
+    {
+      "name": "Wannes De Roy",
+      "role": "Full-stack developer"
+    }
+  ],
+  "require": {
+    "composer/installers": "^1.0",
+  }
+}
