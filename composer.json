@@ -1,5 +1,5 @@
 {
-  "name": "civicrm/civicrm-libraries",
+  "name": "calibrate/civicrm-libraries",
   "description": "Bundle with all the civicrm libraries pre-build.",
   "type": "drupal-library",
   "license": "AGPL-3.0",
